@@ -7,7 +7,7 @@ for i in range(0,N-1) :
   for j in range(i+1,N) :
     if a[i] > a[j] :
       n += 1
-print("колл-во инверсий:", n_inverse)
+print("колл-во инверсий:", n)
 
 
 
